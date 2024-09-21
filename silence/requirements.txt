@@ -1,0 +1,4 @@
+requests
+comtypes
+Pillow
+pygame
